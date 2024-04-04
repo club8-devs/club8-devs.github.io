@@ -44,18 +44,6 @@ If you want to make changes to this page, [create a Pull Request](https://github
 | Burned         | 6.2 %   |
 | Contributors   | 0.7%    |
 
-# Collections
-
-Currently, all fees are collected and processed by [@wejustneedmoney](https://t.me/wejustneedmoney). Use a cryptocurrency wallet
-```
-UQDbK6jlldFM8JpSd8wwLHtuilpJ5FcmSBS7PIGwyAzD1rb3
-```
-to contribute a TON to support the project.
-
-All funds from this wallet will be spent on advertising needs, listings, development, servers and so on.
-
-You can also make a targeted donation to any of the developers. Their list (along with their wallets) will appear on this page.
-
 # Authors
 
 This page is written and translated by [@fuccsoc2](https://t.me/fuccsoc2).
