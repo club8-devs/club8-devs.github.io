@@ -35,6 +35,15 @@ This page is created and updated by the community. If you would like to propose 
 
 If you want to make changes to this page, [create a Pull Request](https://github.com/club8-devs/club8-devs.github.io/pulls) or contact any developer. 
 
+# Token distribution 
+<small>Snapshot from April 4, 2024, 17:29:00 UTC</small>
+
+| -------------- | ------- |
+| Presales       | 50%     |
+| Liquidity pool | 43.10 % |
+| Burned         | 6.2 %   |
+| Contributors   | 0.7%    |
+
 # Collections
 
 Currently, all fees are collected and processed by [@wejustneedmoney](https://t.me/wejustneedmoney). Use a cryptocurrency wallet
