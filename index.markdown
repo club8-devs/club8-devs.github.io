@@ -1,9 +1,7 @@
 ---
-layout: main
+layout: home
 title: ANON
 ---
-
-# ANON
 
 # О токене
 
