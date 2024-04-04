@@ -5,6 +5,8 @@ title: ANON (EN)
 
 [Эту страницу можно прочитать на русском](/)
 
+[Цю сторінку можна прочитати українською](/ua)
+
 # About the token
 
 `$ANON` is a token launched by a closed community of owners of anonymous Telegram numbers 8 Club.
