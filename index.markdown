@@ -5,6 +5,8 @@ title: ANON (RU)
 
 [This page is also available in english](/en)
 
+[Цю сторінку можна прочитати українською](/ua)
+
 # О токене
 
 `$ANON` - жетон, запущенный закрытым комьюнити владельцев анонимных Telegram-номеров 8 Club.
