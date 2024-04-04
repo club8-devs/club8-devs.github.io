@@ -3,13 +3,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   ANON JETTON created by closed community (8 club)
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://club8-devs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anonclub8
-github_username:  club8-devs
 
-theme: minima
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 header_pages:
     - index.markdown
+
+minima:
+  skin: dark
+  social_links:
+    - platform: telegram
+      user_url: https://t.me/anon_club
+    - platform: twitter
+      user_url: https://x.com/anonclub8
+    - platform: github
+      user_url: https://github.com/club8-devs
 # plugins:
 #   - jekyll-feed
 
