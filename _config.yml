@@ -11,6 +11,7 @@ remote_theme: jekyll/minima
 
 header_pages:
     - index.markdown
+    - index_en.markdown
 
 minima:
   skin: dark

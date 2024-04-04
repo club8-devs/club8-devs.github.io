@@ -1,7 +1,9 @@
 ---
 layout: home
-title: ANON
+title: ANON (RU)
 ---
+
+[This page is also available in english](/en)
 
 # О токене
 
