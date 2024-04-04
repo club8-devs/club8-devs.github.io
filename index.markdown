@@ -24,7 +24,7 @@ title: ANON
 
 # Социальные сети
 
-- [Telegram](@anon_club)
+- [Telegram](https://t.me/anon_club)
 - [X](https://x.com/anonclub8)
 
 # Сообщество
